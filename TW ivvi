@@ -71,6 +71,7 @@ OMEGALUL
 EZ
 Clap
 WeirdChamp
+PepeHands
 */
 
 var TWKappa = {
@@ -1719,7 +1720,7 @@ const emoteData = {
     FeelsAmazingMan:
       "https://cdn.betterttv.net/emote/5733ff12e72c3c0814233e20/1x",
     BibleTrump: "https://cdn.betterttv.net/emote/5668b60dafcaf5da4a5805a1/1x",
-    FeelsBanMan: "https://cdn.frankerfacez.com/emoticon/201250/1",
+    PepeHands: "https://cdn.frankerfacez.com/emoticon/231552/2",
     DonaldPls: "https://cdn.betterttv.net/emote/5823a0167df8f1a41d082cf2/1x",
     FeelsWestMan: "https://cdn.betterttv.net/emote/57defac95441dc6a0c997bec/1x",
     FeelsBlueMan: "https://cdn.betterttv.net/emote/57b4f47651067c5243fe1c60/1x",
